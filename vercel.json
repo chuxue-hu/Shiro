@@ -168,7 +168,7 @@
         }
       ]
     }
-  ]
+  ],
   "rewrites": [
     {
       "source": "/api/:path*",
