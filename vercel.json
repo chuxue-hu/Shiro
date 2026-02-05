@@ -169,4 +169,10 @@
       ]
     }
   ]
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://blog.chuxue-hu.de5.net/api/:path*"
+    }
+  ]
 }
